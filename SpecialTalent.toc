@@ -2,6 +2,9 @@
 ## Interface: 11200
 ## Title: SpecialTalent
 ## Notes: Needed to load SpecialTalentUI, an improved talent frame.
+## Title-zhCN:|CFFDD66DD[界面]|R天赋模拟器修复版
+## Notes-zhCN:|CFFDD66DDSpecialTalent|R需要加载SpecialTalentUI，这是一个改进的天赋框架。
+## Version: 1.0.0
 ## SavedVariables: 
 ## First created: Apr 2006
 SpecialTalent.lua
